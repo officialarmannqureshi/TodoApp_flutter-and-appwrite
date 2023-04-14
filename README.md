@@ -41,6 +41,9 @@ The To-Do App was developed by <b><i>Nazim Qureshi</i></b>. It was built while l
 ## License
 The To-Do App is open-source and released under the MIT License. Feel free to use, modify, and distribute the app as per the terms of the license. However, please note that the app is provided "as is" without any warranty or support, and the author will not be liable for any damages or issues arising from its use.
 
+## Screenshots
+
+
 
 
 
